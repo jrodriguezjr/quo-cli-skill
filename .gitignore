@@ -1,0 +1,14 @@
+# Build artifacts
+quoctl/quoctl
+quoctl/dist/
+
+# Local secrets
+quoctl/.quoctl.env
+.quoctl.env
+
+# OS/editor
+.DS_Store
+*.swp
+
+# Archives
+*.zip
