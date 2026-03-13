@@ -13,6 +13,8 @@ Quo/OpenPhone API toolkit with two parts:
 
 ```text
 quo-cli-skill/
+├── docs/
+│   └── webhooks-design.md
 ├── quoctl/
 │   ├── cmd/quoctl/main.go
 │   ├── Makefile
@@ -21,6 +23,9 @@ quo-cli-skill/
     └── quo-api-cli/
         └── SKILL.md
 ```
+
+Webhook feature planning doc:
+- [`docs/webhooks-design.md`](./docs/webhooks-design.md)
 
 ---
 
