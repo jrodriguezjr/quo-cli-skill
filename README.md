@@ -2,8 +2,10 @@
 
 Quo/OpenPhone API toolkit with two parts:
 
-- `quoctl/` — Go CLI for Quo/OpenPhone API
-- `skills/quo-api-cli/` — OpenClaw skill wrapper that uses the CLI
+- `quoctl/` — Go CLI for Quo/OpenPhone API  
+  → See [`quoctl/README.md`](./quoctl/README.md)
+- `skills/quo-api-cli/` — OpenClaw skill wrapper that uses the CLI  
+  → See [`skills/quo-api-cli/SKILL.md`](./skills/quo-api-cli/SKILL.md)
 
 ---
 
